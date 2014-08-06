@@ -6,7 +6,7 @@ Create an Inverted index. Given a set of documents, an inverted index is a dicti
 list of the document identifiers in which that word appears.
 
 
-Relational Join - Problem statment
+Relational Join.py - Problem statment
 Implement a relational join as a MapReduce query
 
 Consider the following query:
@@ -19,7 +19,7 @@ Your MapReduce query should produce the same result as this SQL query executed a
 You can consider the two input tables, Order and LineItem, as one big concatenated bag 
 of records that will be processed by the map function record by record.
 
-Unique Trims - Problem Statement
+Unique Trims.py - Problem Statement
 Consider a set of key-value pairs where each key is sequence id and each value is a string of nucleotides, 
 e.g., GCTTCCGAAATGCTCGAA....
 
